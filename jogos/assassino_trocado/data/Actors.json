@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"animaSteve","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Steve","traits":[],"initialLevel":1,"maxLevel":99,"name":"Steve","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"RosaMaria","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"rosa maria","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rosa Maria","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]

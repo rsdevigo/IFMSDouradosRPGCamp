@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"Actor2_3","characterIndex":0,"characterName":"Karine","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Karinerosto","traits":[],"initialLevel":1,"maxLevel":99,"name":"Karine ","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_2","characterIndex":0,"characterName":"julia caminhante","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Juliaaaaaa","traits":[],"initialLevel":1,"maxLevel":99,"name":"Julia ","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor2_4","characterIndex":0,"characterName":"Mariana","classId":3,"equips":[3,0,2,3,4],"faceIndex":1,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mariana ","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor3_8","characterIndex":0,"characterName":"cams caminhante","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"cams","traits":[],"initialLevel":1,"maxLevel":99,"name":"Camilly ","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor3_7","characterIndex":0,"characterName":"Sah caminhante","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"Sah","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sabrina ","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Actor1_6","characterIndex":0,"characterName":"tiago caminhante","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"Tiago rosto","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tiago ","nickname":"","note":"","profile":""}
+]

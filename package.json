@@ -1,0 +1,28 @@
+{
+  "name": "ifmsrpgcamp",
+  "version": "1.0.0",
+  "description": "Repositório com os jogos criados durante a disciplina de introdução à informática e lógica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsdevigo/IFMSDouradosRPGCamp.git"
+  },
+  "keywords": [
+    "RPG",
+    "Maker",
+    "Educação",
+    "Informática"
+  ],
+  "author": "Rodrigo Sanches Devigo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rsdevigo/IFMSDouradosRPGCamp/issues"
+  },
+  "homepage": "https://github.com/rsdevigo/IFMSDouradosRPGCamp#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}

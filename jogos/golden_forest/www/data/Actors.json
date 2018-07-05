@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Actor3","classId":2,"equips":[2,1,2,3,0],"faceIndex":4,"faceName":"Actor3","traits":[{"code":43,"dataId":3,"value":1},{"code":43,"dataId":11,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Alynor","nickname":"","note":"","profile":"É um garoto cuja a mãe está doente, \ne ele está uma jornada para achar a cura"},
+{"id":2,"battlerName":"","characterIndex":7,"characterName":"People3","classId":1,"equips":[1,1,0,3,4],"faceIndex":7,"faceName":"People3","traits":[{"code":51,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Pinkiman","nickname":"","note":"","profile":"Um nobre cavaleiro,\nque sobreviveu a praga e acabou se juntando a Alynor"}
+]

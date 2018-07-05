@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor2_4","characterIndex":3,"characterName":"Actor2","classId":1,"equips":[1,1,2,3,0],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":50,"name":"Agnes","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":6,"characterName":"People1","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"People1","traits":[],"initialLevel":10,"maxLevel":40,"name":"Monge Fion","nickname":"","note":"","profile":""}
+]

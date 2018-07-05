@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"vilarejo de Deltora","order":1,"parentId":0,"scrollX":425.2,"scrollY":357.2},
+{"id":2,"expanded":true,"name":"dentro da casinha lá","order":2,"parentId":1,"scrollX":431.6,"scrollY":240.4},
+{"id":3,"expanded":true,"name":"cidade 2","order":3,"parentId":2,"scrollX":425.2,"scrollY":287.6},
+{"id":4,"expanded":true,"name":"cidade 3","order":4,"parentId":3,"scrollX":425.2,"scrollY":287.6},
+{"id":5,"expanded":true,"name":"cidade 5","order":5,"parentId":4,"scrollX":425.2,"scrollY":287.6},
+{"id":6,"expanded":true,"name":"MAP006","order":6,"parentId":5,"scrollX":431.6,"scrollY":240.4},
+{"id":7,"expanded":false,"name":"DETRO DO CASTELO","order":7,"parentId":6,"scrollX":431.6,"scrollY":240.4}
+]

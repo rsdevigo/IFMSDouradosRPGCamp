@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Mapa Mundi","order":7,"parentId":10,"scrollX":3976,"scrollY":2704},
+{"id":2,"expanded":false,"name":"Introdução","order":14,"parentId":0,"scrollX":3154.909090909091,"scrollY":2703.2727272727275},
+{"id":3,"expanded":true,"name":"Templo do Ar do Leste 2","order":6,"parentId":10,"scrollX":2532,"scrollY":1806},
+{"id":4,"expanded":true,"name":"Reino da Terra","order":1,"parentId":0,"scrollX":665.4545454545455,"scrollY":665.4545454545455},
+{"id":5,"expanded":true,"name":"Casa da Avatar","order":2,"parentId":4,"scrollX":582.5454545454546,"scrollY":531.2727272727273},
+{"id":6,"expanded":true,"name":"Prisão de Vatto","order":9,"parentId":9,"scrollX":1068,"scrollY":830},
+{"id":7,"expanded":true,"name":"Castelo da Água","order":13,"parentId":13,"scrollX":1166,"scrollY":2094},
+{"id":8,"expanded":true,"name":"Portal dos Mundos","order":12,"parentId":13,"scrollX":1714,"scrollY":1992},
+{"id":9,"expanded":true,"name":"Tribo da Água do Norte","order":8,"parentId":12,"scrollX":1812,"scrollY":846},
+{"id":10,"expanded":true,"name":"Tribo da Água do Sul","order":5,"parentId":12,"scrollX":1380,"scrollY":1806},
+{"id":11,"expanded":true,"name":"Templo do Ar Oeste","order":3,"parentId":5,"scrollX":1165.0909090909092,"scrollY":988.3636363636364},
+{"id":12,"expanded":true,"name":"Templo do Ar do Leste","order":4,"parentId":11,"scrollX":2532,"scrollY":1806},
+{"id":13,"expanded":true,"name":"Mundo Espiritual\\Batalha","order":11,"parentId":0,"scrollX":1068,"scrollY":774},
+{"id":14,"expanded":false,"name":"Nação do Fogo","order":10,"parentId":6,"scrollX":1068,"scrollY":610}
+]

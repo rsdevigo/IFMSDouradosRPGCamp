@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"margoaa","characterIndex":0,"characterName":"margo","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"margo","traits":[],"initialLevel":1,"maxLevel":5,"name":"Margo","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Augusto","characterIndex":0,"characterName":"Augusto","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Augusto","traits":[],"initialLevel":1,"maxLevel":2,"name":"Augusto","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
