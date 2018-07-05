@@ -1,0 +1,17 @@
+ATENÇÃO
+------------------------------------------------------------------------------------------
+O Jogo não roda no Google Chrome então abra em outro navegador, de preferencia no Firefox.
+------------------------------------------------------------------------------------------
+
+1° D
+Four Elements
+Nomes dos criadores no Menu do Jogo.
+
+Como Jogar :
+
+Setas / Mouse - Movimentar
+Espaço - Ação / Ataque
+W - Seleciona Habilidade de Ataque
+S - Usa Habilidade de Ataque
+
+Caso não queira mais jogar e quer saber do final, há um baú na cidade.

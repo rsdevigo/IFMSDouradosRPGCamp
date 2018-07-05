@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"exterior do castelo","order":1,"parentId":0,"scrollX":880,"scrollY":747},
+{"id":2,"expanded":true,"name":"interior do castelo","order":2,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":true,"name":"mapa para percorrer","order":3,"parentId":2,"scrollX":586.1818181818181,"scrollY":1158.5454545454545},
+{"id":4,"expanded":false,"name":"Castelo do demônio 3","order":4,"parentId":3,"scrollX":880,"scrollY":1227}
+]

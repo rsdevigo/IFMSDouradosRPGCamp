@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1050,"scrollY":592},
+{"id":2,"expanded":true,"name":"vilarejo","order":4,"parentId":1,"scrollX":1066,"scrollY":592},
+{"id":3,"expanded":true,"name":"Orfanato","order":7,"parentId":2,"scrollX":1066,"scrollY":592},
+{"id":4,"expanded":false,"name":"floresta","order":5,"parentId":2,"scrollX":1066,"scrollY":592},
+{"id":5,"expanded":false,"name":"plantações","order":6,"parentId":2,"scrollX":1066,"scrollY":592},
+{"id":6,"expanded":true,"name":"MAP006","order":2,"parentId":1,"scrollX":1066,"scrollY":592},
+{"id":7,"expanded":true,"name":"casa","order":9,"parentId":2,"scrollX":1066,"scrollY":592},
+{"id":8,"expanded":true,"name":"Dentro do mapa","order":8,"parentId":3,"scrollX":1066,"scrollY":592},
+{"id":9,"expanded":true,"name":"reino de fogo","order":10,"parentId":1,"scrollX":1066,"scrollY":592},
+{"id":10,"expanded":false,"name":"dentro do reino de fogo","order":11,"parentId":9,"scrollX":1066,"scrollY":592},
+{"id":11,"expanded":false,"name":"reino sombrio","order":3,"parentId":1,"scrollX":1066,"scrollY":592}
+]

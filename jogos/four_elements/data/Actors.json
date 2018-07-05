@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Actor2_1","characterIndex":0,"characterName":"$Hero01","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Nimort","nickname":"Mort","note":"State Icon Y-Axis : 64","profile":"Mago Veterano Que Treinou Por Muito Tempo.\nEstá em Busca do Poder dos 4 Elementos do Mundo."},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]

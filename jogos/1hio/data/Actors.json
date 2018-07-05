@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor5_1","characterIndex":0,"characterName":"People5","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"People5","traits":[],"initialLevel":1,"maxLevel":20,"name":"jade","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor5_3","characterIndex":0,"characterName":"People7","classId":1,"equips":[1,1,2,3,4],"faceIndex":2,"faceName":"Actor7","traits":[],"initialLevel":1,"maxLevel":20,"name":"dnz","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor5_5","characterIndex":0,"characterName":"People9","classId":2,"equips":[2,0,0,0,0],"faceIndex":4,"faceName":"Actor9","traits":[],"initialLevel":1,"maxLevel":20,"name":"Pedro","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor5_4","characterIndex":0,"characterName":"People8","classId":3,"equips":[3,0,0,0,0],"faceIndex":3,"faceName":"Actor8","traits":[],"initialLevel":1,"maxLevel":20,"name":"gabriel","nickname":"","note":"","profile":""}
+]

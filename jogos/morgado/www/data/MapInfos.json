@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"O Vilarejo","order":1,"parentId":0,"scrollX":654.6666666666666,"scrollY":1502},
+{"id":2,"expanded":true,"name":"Casa do ferreiro","order":2,"parentId":1,"scrollX":665.3333333333334,"scrollY":428.6666666666667},
+{"id":3,"expanded":true,"name":"O inferno","order":3,"parentId":2,"scrollX":665.3333333333334,"scrollY":428.6666666666667},
+{"id":4,"expanded":false,"name":"O calabouço","order":4,"parentId":3,"scrollX":665.3333333333334,"scrollY":428.6666666666667}
+]
